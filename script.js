@@ -228,7 +228,7 @@ const perfumes = [
     id: 22,
     name: "Naxos",
     brand: "Xerjoff",
-    category: "nicho",
+    category: "Nicho",
     inspiredBy: null,
     notes: "lavanda, bergamota, limão, mel, canela, cashmeran,jasmin sambac, folha de tabaco, baunilha,fava tonka",
     icon: "🍋🪻🍯",
