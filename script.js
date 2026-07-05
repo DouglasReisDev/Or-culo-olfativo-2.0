@@ -226,7 +226,7 @@ const perfumes = [
     
   {
     id: 22,
-    name: "XJ 1861 Naxos",
+    name: "Naxos",
     brand: "Xerjoff",
     category: "nicho",
     inspiredBy: null,
