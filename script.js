@@ -231,7 +231,7 @@ const perfumes = [
     category: "nicho",
     inspiredBy: null,
     notes: "lavanda, bergamota, limão, mel, canela, cashmeran,jasmin sambac, folha de tabaco, baunilha,fava tonka",
-    icon: "🍋",
+    icon: "🍋🪻🍯",
     tags:["primavera","outono", "inverno","noite"]
   },
   {
