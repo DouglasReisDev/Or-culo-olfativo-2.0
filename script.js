@@ -395,17 +395,18 @@ const perfumes = [
     icon: "🌼🍦✨",
     tags: ["primavera","verao","outono","inverno", "dia", "noite"]
   },
-
+  
   {
     id: 39,
-    name: "Black Ghost",
-    brand: "J.A",
+    name: "Hiero",
+    brand: "Thera Cosméticos",
     category: "Contratipo",
-    inspiredBy: "Black Phantom - KILIAN Paris",
-    notes: "Rum, café, caramelo, baunilha, âmbar, almíscar",
-    icon: "👻🖤☕",
-    tags: ["outono","inverno", "noite"]
+    inspiredBy: "CH Men EDT - Carolina Herrera",
+    notes: "Sálvia, cedro, âmbar, almíscar, notas verdes, madeira",
+    icon: "🌿🏛️💚",
+    tags: ["primavera","outono", "inverno","noite"]
   },
+
   {
     id: 40,
     name: "Divinity Monkey",
@@ -467,15 +468,15 @@ const perfumes = [
     icon: "🚪⚡💧",
     tags: ["primavera","verao","outono","dia"]
   },
-  {
+ {
     id: 46,
-    name: "Ghamra",
-    brand: "Mawwal",
-    category: "CT Árabe",
-    inspiredBy: "Y EDP + EDT - Yves Saint Laurent",
-    notes: "Maçã, bergamota, sálvia, cedro, âmbar, almíscar",
-    icon: "🍎🌿💛",
-    tags: ["primavera","verao","outono","dia", "noite"]
+    name: "Le Patron Intense",
+    brand: "Valentino Viegas",
+    category: "Contratipo",
+    inspiredBy: "Boss Bottled Intense - Hugo Boss",
+    notes: "Maçã, canela, baunilha, madeira, âmbar, almíscar",
+    icon: "👔🍎🌙",
+    tags:["primavera","verao","outono", "inverno", "dia", "noite"]
   },
   {
     id: 47,
@@ -699,14 +700,15 @@ const perfumes = [
   },
   {
     id: 69,
-    name: "Angel Lux",
-    brand: "Nuancielo",
+    name: "Ocean Pour Homme",
+    brand: "Valentino Viegas",
     category: "Contratipo",
-    inspiredBy: "Angels' Share - KILIAN Paris",
-    notes: "Conhaque, caramelo, baunilha, carvalho, âmbar, almíscar",
-    icon: "👼🥃✨",
-    tags: ["outono", "inverno", "noite"]
+    inspiredBy: "Ocean EDP - Prada",
+    notes: "Notas marinhas, bergamota, âmbar cinza, almíscar, cedro, madeira",
+    icon: "🌊🏄💙",
+    tags: ["primavera","verao","outono","dia", "noite"]
   },
+
   {
     id: 70,
     name: "Heaven",
@@ -810,47 +812,46 @@ const perfumes = [
   },
   {
     id: 80,
-    name: "Hiero",
-    brand: "Thera Cosméticos",
+    name: "Mead",
+    brand: "Nuancielo",
     category: "Contratipo",
-    inspiredBy: "CH Men EDT - Carolina Herrera",
-    notes: "Sálvia, cedro, âmbar, almíscar, notas verdes, madeira",
-    icon: "🌿🏛️💚",
-    tags: ["primavera","outono", "inverno","noite"]
-  },
-  {
-    id: 81,
-    name: "Aventador",
-    brand: "Valentino Viegas",
-    category: "Contratipo",
-    inspiredBy: "Aventus - Creed",
-    notes: "Abacaxi, bergamota, bétula, patchouli, almíscar, âmbar",
-    icon: "🍍🏎️🌲",
-    tags: ["primavera","verao","outono","dia"]
-  },
-  {
-    id: 82,
-    name: "Ocean Pour Homme",
-    brand: "Valentino Viegas",
-    category: "Contratipo",
-    inspiredBy: "Ocean EDP - Prada",
-    notes: "Notas marinhas, bergamota, âmbar cinza, almíscar, cedro, madeira",
-    icon: "🌊🏄💙",
-    tags: ["primavera","verao","outono","dia", "noite"]
-  },
-  {
-    id: 83,
-    name: "Le Patron Intense",
-    brand: "Valentino Viegas",
-    category: "Contratipo",
-    inspiredBy: "Boss Bottled Intense - Hugo Boss",
-    notes: "Maçã, canela, baunilha, madeira, âmbar, almíscar",
-    icon: "👔🍎🌙",
-    tags:["primavera","verao","outono", "inverno", "dia", "noite"]
+    inspiredBy: "Naxos - Xerjoff",
+    notes: "cítricos,lavanda, jasmin,tabaco, canela, baunilha, ",
+    icon: "🌿🪵🍯",
+    tags: ["primavera","inverno" ,"outono","noite"]
   },
   
+  {
+  id: 81,
+  name: "Un Jardin sur le Nil",
+  brand: "Hermès",
+  category: "Importado design",
+  inspiredBy:"null",
+  notes: "manga verde, toranja, tomate, lótus, junco, incenso, íris, almíscar",
+  icon: "🌿🥭🌊",
+  tags: ["primavera", "verao", "dia"]
+  },
+  {
+  id: 82,
+  name: "Enock",
+  brand: "Nuancielo",
+  category: "Contratipo",
+  inspiredBy: "Greenley - Parfums de Marly",
+  notes: "maçã verde, bergamota, mandarina, petitgrain, cedro, cashmeran, musgo de carvalho, almíscar",
+  icon: "🍏🌿🌳",
+  tags: ["primavera","outono","dia","noite"]
+},
+{
+  id: 83,
+  name: "Everest",
+  brand: "Nuancielo",
+  category: "Contratipo",
+  inspiredBy: "Silver Mountain Water - Creed",
+  notes: "bergamota, mandarina, chá verde, groselha preta, almíscar, sândalo, petitgrain",
+  icon: "🏔️❄️🌿",
+  tags: ["primavera", "verao", "dia"]
+},
   
-
   // ── ADICIONE SEUS PERFUMES AQUI ──────────────
   // Exemplo comentado:
   // {
