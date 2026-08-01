@@ -746,7 +746,7 @@ const perfumes = [
     inspiredBy: null,
     notes: "Toranja, patchouli, incenso, âmbar cinza, almíscar, madeira",
     icon: "⚡🏆🌊",
-    tags: ["primavera","verao","outono", "inverno", "dia", "noite"]
+    tags: ["primavera","verao","outono","dia", "noite"]
   },
   {
     id: 74,
@@ -840,7 +840,16 @@ const perfumes = [
     icon: "🍋🪻💼",
     tags:["primavera","verao","outono", "inverno", "dia", "noite"]
   },
-
+  {
+  id: 83,
+  name: "Bossa",
+  brand: "Granado",
+  category: "Nacional",
+  inspiredBy: null,
+  notes:"limão, Petiigrain, mandarina,leite de coco , notas oceanicas,jasmim-manga,almiscar,cashmeran",
+  icon: "🌊🍋🥥",
+  tags: ["primavera","verao", "dia"]
+},
   
   // ── ADICIONE SEUS PERFUMES AQUI ──────────────
   // Exemplo comentado:
