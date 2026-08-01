@@ -54,7 +54,7 @@ const perfumes = [
   },
   {
     id: 5,
-    name: "Armani Code EDT",
+    name: "Armani Code EDT - 2023",
     brand: "Armani",
     category: "Importado design",
     inspiredBy: null,
@@ -306,7 +306,7 @@ const perfumes = [
   },
   {
     id: 30,
-    name: "Códice d'Horo",
+    name: "Códice d'horo",
     brand: "In the Box",
     category: "Contratipo",
     inspiredBy: "Armani Code Absolu Gold",
@@ -384,18 +384,16 @@ const perfumes = [
     icon: "🍏🌿🔄",
     tags: ["primavera","verao","outono", "inverno", "dia"]
   },
-  
   {
-    id: 38,
-    name: "Sublime",
-    brand: "J.A",
-    category: "Contratipo",
-    inspiredBy: "Sublime Vanille - Creed",
-    notes: "Baunilha, âmbar, almíscar, sândalo, florais, madeira",
-    icon: "🌼🍦✨",
-    tags: ["primavera","verao","outono","inverno", "dia", "noite"]
-  },
-  
+  id: 38,
+  name: "Enock",
+  brand: "Nuancielo",
+  category: "Contratipo",
+  inspiredBy: "Greenley - Parfums de Marly",
+  notes: "maçã verde, bergamota, mandarina, petitgrain, cedro, cashmeran, musgo de carvalho, almíscar",
+  icon: "🍏🌿🌳",
+  tags: ["primavera","outono","dia","noite"]
+},
   {
     id: 39,
     name: "Hiero",
@@ -608,17 +606,18 @@ const perfumes = [
     icon: "🌿🇧🇷💚",
     tags: ["primavera","outono", "inverno", "dia", "noite"]
   },
-  {
-    id: 60,
-    name: "Homem Sagaz",
-    brand: "Natura",
-    category: "Nacional",
-    inspiredBy: null,
-    notes: "Cítrico, especiado, madeira, almíscar, âmbar, sândalo",
-    icon: "🌟🌿🍊",
-    tags: ["outono", "inverno", "noite"]
-  },
-  {
+{
+  id: 60,
+  name: "Everest",
+  brand: "Nuancielo",
+  category: "Contratipo",
+  inspiredBy: "Silver Mountain Water - Creed",
+  notes: "bergamota, mandarina, chá verde, groselha preta, almíscar, sândalo, petitgrain",
+  icon: "🏔️❄️🌿",
+  tags: ["primavera", "verao", "dia"]
+},
+
+{
     id: 61,
     name: "Ayael",
     brand: "Nuancielo",
@@ -831,26 +830,17 @@ const perfumes = [
   icon: "🌿🥭🌊",
   tags: ["primavera", "verao", "dia"]
   },
-  {
-  id: 82,
-  name: "Enock",
-  brand: "Nuancielo",
-  category: "Contratipo",
-  inspiredBy: "Greenley - Parfums de Marly",
-  notes: "maçã verde, bergamota, mandarina, petitgrain, cedro, cashmeran, musgo de carvalho, almíscar",
-  icon: "🍏🌿🌳",
-  tags: ["primavera","outono","dia","noite"]
-},
-{
-  id: 83,
-  name: "Everest",
-  brand: "Nuancielo",
-  category: "Contratipo",
-  inspiredBy: "Silver Mountain Water - Creed",
-  notes: "bergamota, mandarina, chá verde, groselha preta, almíscar, sândalo, petitgrain",
-  icon: "🏔️❄️🌿",
-  tags: ["primavera", "verao", "dia"]
-},
+   {
+    id: 82,
+    name: "Armani Code EDT Vintage",
+    brand: "Armani",
+    category: "Importado design",
+    inspiredBy: null,
+    notes: "Mandarina,Lavanda,Fava tonka, Cedro",
+    icon: "🍋🪻💼",
+    tags:["primavera","verao","outono", "inverno", "dia", "noite"]
+  },
+
   
   // ── ADICIONE SEUS PERFUMES AQUI ──────────────
   // Exemplo comentado:
