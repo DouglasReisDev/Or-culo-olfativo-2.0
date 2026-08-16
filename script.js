@@ -850,6 +850,27 @@ const perfumes = [
   icon: "🌊🍋🥥",
   tags: ["primavera","verao", "dia"]
 },
+  {
+  id: 84,
+  name: "Ébène",
+  brand: "Maison Alhambra",
+  category: "contratipo",
+  inspiredBy: "Babycat - Yves Saint Laurent",
+  notes: "Elemi,Cravo,Artemísia,Olíbano,Madeira Guaiac,Baunilha,Benjoim,Âmbar,Almíscar",
+  icon: "🌿🕯️🍦🪵",
+  tags: ["outono", "inverno", "noite"]
+},
+{
+  id: 85,
+  name: "Tabac",
+  brand: "Maison Alhambra",
+  category: "contratipo",
+  inspiredBy: "Tobacolor - Dior",
+  notes: "Ameixa,Pêssego,Bergamota,Cítricos,Mel,Fumaça,Notas Orientais,Folha de Tabaco,Tabaco,Âmbar,Tabaco Branco",
+  icon: "🍑🍯🚬🔥",
+  tags: ["outono", "inverno", "noite"]
+},
+
   
   // ── ADICIONE SEUS PERFUMES AQUI ──────────────
   // Exemplo comentado:
