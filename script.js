@@ -875,16 +875,16 @@ const perfumes = [
   icon: "🌿🍦🪵",
   tags: ["outono", "inverno", "noite"]
 },
-  {
+{
     id: 86,
     name: "Un Jardin sur le nil",
     brand: "Hermès",
     category: "Importado design",
     inspiredBy: null,
-    notes: "Toranja, Manga verde,tomate cenoura,lotus,jacinto,iris,almiscar"
+    notes: "Toranja, Manga verde,tomate cenoura,lotus,jacinto,iris,almiscar",
     icon: "🥭🌱🌿",
     tags:["primavera","verão", "dia"]
-  },
+},
 
   // falta adiconar velvet cedar e limon line
 
