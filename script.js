@@ -446,16 +446,17 @@ const perfumes = [
     icon: "💙🫙🌹",
     tags: ["primavera","outono", "inverno", "noite"]
   },
+  
   {
-    id: 44,
-    name: "Al Nashama Caprice",
-    brand: "Lattafa",
-    category: "CT Árabe",
-    inspiredBy: "La Nuit de L'Homme Bleu Électrique - YSL",
-    notes: "Cardamomo, bergamota, lavanda, couro, âmbar, sândalo",
-    icon: "💜🌙⚡",
-    tags: ["primavera","outono", "inverno", "dia", "noite"]
-  },
+  id: 44,
+  name: "Tabac",
+  brand: "Maison Alhambra",
+  category: "contratipo",
+  inspiredBy: "Tobacolor - Dior",
+  notes: "Ameixa,Pêssego,Bergamota,Cítricos,Mel,Fumaça,Notas Orientais,Folha de Tabaco,Tabaco,Âmbar,Tabaco Branco",
+  icon: "🍑🍯🚬🔥",
+  tags: ["outono", "inverno", "noite"]
+},
   {
     id: 45,
     name: "Dark Door Sport",
@@ -830,7 +831,8 @@ const perfumes = [
   icon: "🌿🥭🌊",
   tags: ["primavera", "verao", "dia"]
   },
-   {
+   
+  {
     id: 82,
     name: "Armani Code EDT Vintage",
     brand: "Armani",
@@ -840,6 +842,7 @@ const perfumes = [
     icon: "🍋🪻💼",
     tags:["primavera","verao","outono", "inverno", "dia", "noite"]
   },
+  
   {
   id: 83,
   name: "Bossa",
@@ -850,26 +853,40 @@ const perfumes = [
   icon: "🌊🍋🥥",
   tags: ["primavera","verao", "dia"]
 },
-  {
+
+{
   id: 84,
+  name: "figo confit",
+  brand: "Granado",
+  category: "Nacional",
+  inspiredBy: null,
+  notes:"Figo, Davana e Ameixa,Cashmeran,Cedro,tãmara,ládano",
+  icon: "🍂🍁✨",
+  tags: ["outono", "inverno", "dia", "noite"]
+},
+
+{
+  id: 85,
   name: "Ébène",
   brand: "Maison Alhambra",
   category: "contratipo",
   inspiredBy: "Babycat - Yves Saint Laurent",
   notes: "Elemi,Cravo,Artemísia,Olíbano,Madeira Guaiac,Baunilha,Benjoim,Âmbar,Almíscar",
-  icon: "🌿🕯️🍦🪵",
+  icon: "🌿🍦🪵",
   tags: ["outono", "inverno", "noite"]
 },
-{
-  id: 85,
-  name: "Tabac",
-  brand: "Maison Alhambra",
-  category: "contratipo",
-  inspiredBy: "Tobacolor - Dior",
-  notes: "Ameixa,Pêssego,Bergamota,Cítricos,Mel,Fumaça,Notas Orientais,Folha de Tabaco,Tabaco,Âmbar,Tabaco Branco",
-  icon: "🍑🍯🚬🔥",
-  tags: ["outono", "inverno", "noite"]
-},
+  {
+    id: 86,
+    name: "Un Jardin sur le nil",
+    brand: "Hermès",
+    category: "Importado design",
+    inspiredBy: null,
+    notes: "Toranja, Manga verde,tomate cenoura,lotus,jacinto,iris,almiscar"
+    icon: "🥭🌱🌿",
+    tags:["primavera","verão", "dia"]
+  },
+
+  // falta adiconar velvet cedar e limon line
 
   
   // ── ADICIONE SEUS PERFUMES AQUI ──────────────
