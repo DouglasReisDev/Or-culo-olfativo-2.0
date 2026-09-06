@@ -883,8 +883,10 @@ const perfumes = [
     inspiredBy: null,
     notes: "Toranja, Manga verde,tomate cenoura,lotus,jacinto,iris,almiscar",
     icon: "🥭🌱🌿",
-    tags:["primavera","verão", "dia"]
-},
+    tags:["primavera","verao", "dia"]
+  },
+
+
 
   // falta adiconar velvet cedar e limon line
 
