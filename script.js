@@ -875,17 +875,37 @@ const perfumes = [
   icon: "🌿🍦🪵",
   tags: ["outono", "inverno", "noite"]
 },
-{
-    id: 86,
-    name: "Un Jardin sur le nil",
-    brand: "Hermès",
+  {
+  id: 86,
+  name: "Lemon Premium",
+  brand: "Azza Parfums",
+  category: "contratipo",
+  inspiredBy: "Lemon Line - Mancera",
+  notes: "Limão,Laranja,Lavanda,Flores Brancas,Gerânio,Âmbar,Almíscar Branco,Musgo de Carvalho",
+  icon: "🍋🍊🪻",
+  tags: ["primavera", "verao", "dia"]
+  },
+  {
+    id: 87,
+    name: "àcqua de Gio Profumo",
+    brand: "Armani",
     category: "Importado design",
     inspiredBy: null,
-    notes: "Toranja, Manga verde,tomate cenoura,lotus,jacinto,iris,almiscar",
-    icon: "🥭🌱🌿",
-    tags:["primavera","verao", "dia"]
+    notes: "Notas aquáticas, incenso, patchouli, âmbar, almíscar, bergamota",
+    icon: "🌊🖤🌿",
+    tags:["primavera","verao","outono", "dia", "noite"]
   },
-
+  
+  {
+  id: 88,
+  name: "Velvet Cedar",
+  brand: "Maison Viegas",
+  category: "contratipo",
+  inspiredBy: "Cedar Chic - Carolina Herrera",
+  notes: "Aldeídos,Bergamota,Flor de Laranjeira,Almíscar Branco,Cedro",
+  icon: "🫧🍊🌸",
+  tags: ["primavera", "verao", "outono", "dia"]
+},
 
 
   // falta adiconar velvet cedar e limon line
